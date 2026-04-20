@@ -33,7 +33,7 @@ fp-info-cache
 *.xml
 *.csv
 
-# Archived Backups (KiCad 6.0)
+# Archived Backups
 **/*-backups/*.zip
 
 # Local project settings
@@ -41,3 +41,7 @@ fp-info-cache
 
 # MacOS
 **/.DS_Store
+
+# VS Code
+.history/
+.vscode/
